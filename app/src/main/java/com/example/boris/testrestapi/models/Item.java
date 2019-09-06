@@ -53,7 +53,7 @@ public class Item {
             this.avatar_image = avatar_image;
         }
 
-        class Avatar{
+        public class Avatar{
             private String url_medium;
 
             public Avatar(String url_medium) {
